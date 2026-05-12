@@ -41,7 +41,7 @@ on:
       tweak_url:
         type: string
         required: false
-        default: ""
+        default: "https://github.com/dvntm0/dvntm0.github.io/raw/refs/heads/main/repo/debs/ytplus/com.dvntm.ytlite_5.2.1_iphoneos-arm64.deb"
 
 jobs:
   build-tweaks:
